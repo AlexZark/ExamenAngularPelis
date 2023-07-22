@@ -1,0 +1,13 @@
+.navbar .navbar-brand
+{
+    color: #E50914;
+    font-weight: bold;
+    position: absolute;
+    left: 40%;
+    width: 50vh;
+}
+
+.navbar-nav .nav-item .nav-link
+{
+    color: #E50914;
+}
